@@ -18,8 +18,6 @@ public:
            if(ls == rs) return i;
         }
 
-        cout << -1 << endl;
-
         return -1;
         
     } 
