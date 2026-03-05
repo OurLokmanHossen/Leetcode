@@ -2,25 +2,23 @@ class Solution {
 public:
     int pivotInteger(int n) {
 
-        for(int x = 1; x <= n; x++)
+        int sum = 0;
+        for(int i = 1; i <= n; i++)
         {
-            int ls = 0, rs = 0;
-
-            for(int i = 1; i<= x; i++)
-            {
-                ls += i;
-            }
-
-            for(int i = x; i<= n; i++)
-            {
-                rs += i;
-            }
-
-            if(ls == rs)
-            {
-               return x;
-            }
+           sum += i;
         }
+
+        int ls = 0, rs = 0;
+
+        for(int i = 1; i<=n; i++)
+        {
+           ls += i;
+           rs = sum + i - ls;
+
+           if(ls == rs) return i;
+        }
+
+        cout << -1 << endl;
 
         return -1;
         
