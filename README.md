@@ -5,6 +5,7 @@ This is my Leetcode solotion :
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/OurLokmanHossen/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/OurLokmanHossen/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/OurLokmanHossen/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -16,6 +17,7 @@ This is my Leetcode solotion :
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/OurLokmanHossen/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/OurLokmanHossen/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/OurLokmanHossen/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
