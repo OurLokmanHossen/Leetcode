@@ -4,12 +4,15 @@ public:
 
         int n = nums.size();
 
-        vector<int> newA (2 * n);
+        vector<int> newA (0);
 
         for(int i = 0;i<n; i++)
         {
-             newA[i] = nums[i] ;
-             newA[i + n] = nums[i];
+            newA.push_back(nums[i]);
+        }
+        for(int i = 0;i<n; i++)
+        {
+            newA.push_back(nums[i]);
         }
 
         return newA;
