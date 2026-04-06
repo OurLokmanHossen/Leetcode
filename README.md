@@ -7,6 +7,7 @@ This is my Leetcode solotion :
 | ------- | ------- |
 | [0001-two-sum](https://github.com/OurLokmanHossen/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/OurLokmanHossen/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0643-maximum-average-subarray-i](https://github.com/OurLokmanHossen/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/OurLokmanHossen/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -41,4 +42,8 @@ This is my Leetcode solotion :
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/OurLokmanHossen/Leetcode/tree/main/0001-two-sum/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0643-maximum-average-subarray-i](https://github.com/OurLokmanHossen/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 <!---LeetCode Topics End-->
