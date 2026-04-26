@@ -7,6 +7,7 @@ This is my Leetcode solotion :
 | ------- | ------- |
 | [0001-two-sum](https://github.com/OurLokmanHossen/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/OurLokmanHossen/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/OurLokmanHossen/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/OurLokmanHossen/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -52,5 +53,6 @@ This is my Leetcode solotion :
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/OurLokmanHossen/Leetcode/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
