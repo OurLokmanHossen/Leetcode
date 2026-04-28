@@ -4,15 +4,20 @@ public:
 
         int n = letters.size();
 
-          auto up = upper_bound(letters.begin(), letters.end(), target);
-        
+        int l = 0, e = n - 1;
 
-        if(up == letters.end())
+        int ans = letters[0];
+        while(l <= e)
         {
-            return letters[0];
-        }
+           int mid = l + (e-l) / 2;
+           if(letters[mid] > target)
+           {
+              ans = letters[mid];
+              e = mid - 1;
+           }else l = mid + 1;
+        }return ans;
 
-        return *up ;
+
         
     }
 };
