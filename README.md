@@ -17,6 +17,7 @@ This is my Leetcode solotion :
 | [1732-find-the-highest-altitude](https://github.com/OurLokmanHossen/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/OurLokmanHossen/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OurLokmanHossen/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/OurLokmanHossen/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -59,4 +60,13 @@ This is my Leetcode solotion :
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/OurLokmanHossen/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/OurLokmanHossen/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OurLokmanHossen/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OurLokmanHossen/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OurLokmanHossen/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 <!---LeetCode Topics End-->
