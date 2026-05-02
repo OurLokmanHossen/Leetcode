@@ -13,6 +13,7 @@ This is my Leetcode solotion :
 | [0643-maximum-average-subarray-i](https://github.com/OurLokmanHossen/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/OurLokmanHossen/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/OurLokmanHossen/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/OurLokmanHossen/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
@@ -60,6 +61,7 @@ This is my Leetcode solotion :
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/OurLokmanHossen/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/OurLokmanHossen/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
+| [0852-peak-index-in-a-mountain-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OurLokmanHossen/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
