@@ -8,6 +8,7 @@ This is my Leetcode solotion :
 | [0001-two-sum](https://github.com/OurLokmanHossen/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0136-single-number](https://github.com/OurLokmanHossen/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/OurLokmanHossen/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/OurLokmanHossen/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -78,4 +79,8 @@ This is my Leetcode solotion :
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2951-find-the-peaks](https://github.com/OurLokmanHossen/Leetcode/tree/main/2951-find-the-peaks/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/OurLokmanHossen/Leetcode/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
