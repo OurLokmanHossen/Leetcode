@@ -12,6 +12,7 @@ This is my Leetcode solotion :
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/OurLokmanHossen/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/OurLokmanHossen/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/OurLokmanHossen/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/OurLokmanHossen/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/OurLokmanHossen/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -63,6 +64,7 @@ This is my Leetcode solotion :
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/OurLokmanHossen/Leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0540-single-element-in-a-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0704-binary-search](https://github.com/OurLokmanHossen/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/OurLokmanHossen/Leetcode/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0852-peak-index-in-a-mountain-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
