@@ -2,15 +2,41 @@ class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
         int n = nums.size();
+        int l = 0, h = n-1;
 
-        int ans = 0;
-
-        for(auto it : nums)
+        while(l < h)
         {
-            ans ^= it;
+             int mid = l + (h-l)/ 2;
+
+             bool isEven;
+             if((h-mid) % 2 == 0)
+             {
+                isEven = true;
+             }else 
+             {
+                isEven = false;
+             }
+
+             if(nums[mid] == nums[mid+1])
+             {
+                if(isEven)
+                {
+                    l = mid + 2;
+                }else
+                {
+                    h = mid-1;
+                }
+             }else if(nums[mid] != nums[mid+1])
+             {
+                if(isEven)
+                {
+                    h = mid;
+                }else 
+                {
+                    l = mid + 1;
+                }
+             }
         }
-
-        return ans;
-
+        return nums[l];
     }
 };
