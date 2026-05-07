@@ -8,6 +8,7 @@ This is my Leetcode solotion :
 | [0001-two-sum](https://github.com/OurLokmanHossen/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/OurLokmanHossen/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0136-single-number](https://github.com/OurLokmanHossen/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/OurLokmanHossen/Leetcode/tree/main/0162-find-peak-element/) | Medium |
@@ -65,6 +66,7 @@ This is my Leetcode solotion :
 | ------- | ------- |
 | [0033-search-in-rotated-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0035-search-insert-position](https://github.com/OurLokmanHossen/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/OurLokmanHossen/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0540-single-element-in-a-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
