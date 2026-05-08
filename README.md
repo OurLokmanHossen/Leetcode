@@ -12,6 +12,7 @@ This is my Leetcode solotion :
 | [0136-single-number](https://github.com/OurLokmanHossen/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0162-find-peak-element](https://github.com/OurLokmanHossen/Leetcode/tree/main/0162-find-peak-element/) | Medium |
+| [0169-majority-element](https://github.com/OurLokmanHossen/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/OurLokmanHossen/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/OurLokmanHossen/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
@@ -57,6 +58,7 @@ This is my Leetcode solotion :
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/OurLokmanHossen/Leetcode/tree/main/0001-two-sum/) | Easy |
+| [0169-majority-element](https://github.com/OurLokmanHossen/Leetcode/tree/main/0169-majority-element/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -82,6 +84,7 @@ This is my Leetcode solotion :
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0169-majority-element](https://github.com/OurLokmanHossen/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OurLokmanHossen/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
@@ -91,4 +94,12 @@ This is my Leetcode solotion :
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/OurLokmanHossen/Leetcode/tree/main/0136-single-number/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/OurLokmanHossen/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0169-majority-element](https://github.com/OurLokmanHossen/Leetcode/tree/main/0169-majority-element/) | Easy |
 <!---LeetCode Topics End-->
