@@ -54,6 +54,7 @@ This is my Leetcode solotion :
 | [0657-robot-return-to-origin](https://github.com/OurLokmanHossen/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/OurLokmanHossen/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/OurLokmanHossen/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [3612-process-string-with-special-operations-i](https://github.com/OurLokmanHossen/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@ This is my Leetcode solotion :
 | [1929-concatenation-of-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/OurLokmanHossen/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/OurLokmanHossen/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3612-process-string-with-special-operations-i](https://github.com/OurLokmanHossen/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
