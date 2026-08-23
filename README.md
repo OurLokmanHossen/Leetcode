@@ -51,6 +51,7 @@ This is my Leetcode solotion :
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0242-valid-anagram](https://github.com/OurLokmanHossen/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/OurLokmanHossen/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/OurLokmanHossen/Leetcode/tree/main/1784-check-if-binary-string-has-at-most-one-segment-of-ones/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/OurLokmanHossen/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -68,6 +69,7 @@ This is my Leetcode solotion :
 | ------- | ------- |
 | [0001-two-sum](https://github.com/OurLokmanHossen/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/OurLokmanHossen/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/OurLokmanHossen/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/OurLokmanHossen/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/OurLokmanHossen/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Sliding Window
@@ -100,6 +102,7 @@ This is my Leetcode solotion :
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/OurLokmanHossen/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/OurLokmanHossen/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0242-valid-anagram](https://github.com/OurLokmanHossen/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [2784-check-if-array-is-good](https://github.com/OurLokmanHossen/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OurLokmanHossen/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Enumeration
