@@ -2,26 +2,22 @@ class Solution {
 public:
     bool isAnagram(string s, string t) {
 
-        int n = s.size();
-        int m = t.size();
-    
-        if(n != m) return false;
+        if(s.size() != t.size()) return false;
 
-        map<char, int> mp1, mp2;
-        for(int i = 0; i<n; i++)
+        int cnt1[26] = {0};
+        int cnt2[26] = {0};
+
+        for(int i = 0; i < s.size(); i++)
         {
-            mp1[s[i]]++;
-            mp2[t[i]]++;
+            cnt1[s[i]- 'a']++;
+            cnt2[t[i]- 'a']++;
         }
 
-        for(int i = 'a'; i<= 'z'; i++)
+        for(int i = 0; i < 26; i++)
         {
-            if(mp1[i] != mp2[i]) {return false;}
+            if(cnt1[i] != cnt2[i]) return false;
         }
 
-        
         return true;
-        
-        
     }
 };
