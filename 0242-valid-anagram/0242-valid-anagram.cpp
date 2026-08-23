@@ -4,20 +4,24 @@ public:
 
         int n = s.size();
         int m = t.size();
-        sort(s.begin(), s.end());
-        sort(t.begin(), t.end());
-
+    
         if(n != m) return false;
 
-        bool f = true;
-
+        map<char, int> mp1, mp2;
         for(int i = 0; i<n; i++)
         {
-            if(s[i] != t[i]) {f = false; break;}
+            mp1[s[i]]++;
+            mp2[t[i]]++;
         }
 
-        if(f) return true;
-        else return false;
+        for(int i = 'a'; i<= 'z'; i++)
+        {
+            if(mp1[i] != mp2[i]) {return false;}
+        }
+
+        
+        return true;
+        
         
     }
 };
