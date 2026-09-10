@@ -15,6 +15,7 @@ This is my Leetcode solotion :
 | [0162-find-peak-element](https://github.com/OurLokmanHossen/Leetcode/tree/main/0162-find-peak-element/) | Medium |
 | [0169-majority-element](https://github.com/OurLokmanHossen/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0198-house-robber](https://github.com/OurLokmanHossen/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/OurLokmanHossen/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/OurLokmanHossen/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
@@ -121,4 +122,8 @@ This is my Leetcode solotion :
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/OurLokmanHossen/Leetcode/tree/main/0169-majority-element/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0198-house-robber](https://github.com/OurLokmanHossen/Leetcode/tree/main/0198-house-robber/) | Medium |
 <!---LeetCode Topics End-->
