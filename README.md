@@ -18,6 +18,7 @@ This is my Leetcode solotion :
 | [0198-house-robber](https://github.com/OurLokmanHossen/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/OurLokmanHossen/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/OurLokmanHossen/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0347-top-k-frequent-elements](https://github.com/OurLokmanHossen/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0485-max-consecutive-ones](https://github.com/OurLokmanHossen/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0540-single-element-in-a-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0540-single-element-in-a-sorted-array/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/OurLokmanHossen/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -72,6 +73,7 @@ This is my Leetcode solotion :
 | [0001-two-sum](https://github.com/OurLokmanHossen/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0169-majority-element](https://github.com/OurLokmanHossen/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/OurLokmanHossen/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/OurLokmanHossen/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/OurLokmanHossen/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/OurLokmanHossen/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 ## Sliding Window
@@ -105,6 +107,7 @@ This is my Leetcode solotion :
 | [0075-sort-colors](https://github.com/OurLokmanHossen/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/OurLokmanHossen/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/OurLokmanHossen/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/OurLokmanHossen/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [2784-check-if-array-is-good](https://github.com/OurLokmanHossen/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OurLokmanHossen/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Enumeration
@@ -119,13 +122,27 @@ This is my Leetcode solotion :
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/OurLokmanHossen/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/OurLokmanHossen/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/OurLokmanHossen/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0347-top-k-frequent-elements](https://github.com/OurLokmanHossen/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0198-house-robber](https://github.com/OurLokmanHossen/Leetcode/tree/main/0198-house-robber/) | Medium |
 | [0213-house-robber-ii](https://github.com/OurLokmanHossen/Leetcode/tree/main/0213-house-robber-ii/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/OurLokmanHossen/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/OurLokmanHossen/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0347-top-k-frequent-elements](https://github.com/OurLokmanHossen/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 <!---LeetCode Topics End-->
