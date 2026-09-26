@@ -35,6 +35,7 @@ This is my Leetcode solotion :
 | [2784-check-if-array-is-good](https://github.com/OurLokmanHossen/Leetcode/tree/main/2784-check-if-array-is-good/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OurLokmanHossen/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2951-find-the-peaks](https://github.com/OurLokmanHossen/Leetcode/tree/main/2951-find-the-peaks/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/OurLokmanHossen/Leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/OurLokmanHossen/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Math
 | Problem Name | Difficulty |
@@ -42,6 +43,7 @@ This is my Leetcode solotion :
 | [0189-rotate-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [1248-count-number-of-nice-subarrays](https://github.com/OurLokmanHossen/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [2485-find-the-pivot-integer](https://github.com/OurLokmanHossen/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/OurLokmanHossen/Leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/OurLokmanHossen/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -67,6 +69,7 @@ This is my Leetcode solotion :
 | [1929-concatenation-of-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/OurLokmanHossen/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 | [2149-rearrange-array-elements-by-sign](https://github.com/OurLokmanHossen/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/OurLokmanHossen/Leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3612-process-string-with-special-operations-i](https://github.com/OurLokmanHossen/Leetcode/tree/main/3612-process-string-with-special-operations-i/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -139,6 +142,7 @@ This is my Leetcode solotion :
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/OurLokmanHossen/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [1046-last-stone-weight](https://github.com/OurLokmanHossen/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/OurLokmanHossen/Leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
