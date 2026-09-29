@@ -28,6 +28,7 @@ This is my Leetcode solotion :
 | [1046-last-stone-weight](https://github.com/OurLokmanHossen/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/OurLokmanHossen/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1672-richest-customer-wealth](https://github.com/OurLokmanHossen/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1732-find-the-highest-altitude](https://github.com/OurLokmanHossen/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1929-concatenation-of-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/OurLokmanHossen/Leetcode/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
@@ -151,4 +152,8 @@ This is my Leetcode solotion :
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0347-top-k-frequent-elements](https://github.com/OurLokmanHossen/Leetcode/tree/main/0347-top-k-frequent-elements/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/OurLokmanHossen/Leetcode/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
