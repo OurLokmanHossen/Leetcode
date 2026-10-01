@@ -6,7 +6,7 @@ public:
         for(int i = 0; i<n; i++) a.push_back(nums2[i]);
 
         sort(a.begin(), a.end());
-
+        
         nums1 = a;
     }
 };
