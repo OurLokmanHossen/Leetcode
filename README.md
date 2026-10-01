@@ -44,6 +44,7 @@ This is my Leetcode solotion :
 | [0189-rotate-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0412-fizz-buzz](https://github.com/OurLokmanHossen/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [1248-count-number-of-nice-subarrays](https://github.com/OurLokmanHossen/Leetcode/tree/main/1248-count-number-of-nice-subarrays/) | Medium |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/OurLokmanHossen/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/OurLokmanHossen/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/OurLokmanHossen/Leetcode/tree/main/3264-final-array-state-after-k-multiplication-operations-i/) | Easy |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/OurLokmanHossen/Leetcode/tree/main/3432-count-partitions-with-even-sum-difference/) | Easy |
@@ -126,6 +127,7 @@ This is my Leetcode solotion :
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/OurLokmanHossen/Leetcode/tree/main/0136-single-number/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/OurLokmanHossen/Leetcode/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
