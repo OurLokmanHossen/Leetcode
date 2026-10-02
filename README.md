@@ -61,6 +61,7 @@ This is my Leetcode solotion :
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/OurLokmanHossen/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/OurLokmanHossen/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0412-fizz-buzz](https://github.com/OurLokmanHossen/Leetcode/tree/main/0412-fizz-buzz/) | Easy |
 | [0657-robot-return-to-origin](https://github.com/OurLokmanHossen/Leetcode/tree/main/0657-robot-return-to-origin/) | Easy |
@@ -109,6 +110,7 @@ This is my Leetcode solotion :
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/OurLokmanHossen/Leetcode/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
+| [0125-valid-palindrome](https://github.com/OurLokmanHossen/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
 | [0189-rotate-array](https://github.com/OurLokmanHossen/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/OurLokmanHossen/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/OurLokmanHossen/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
